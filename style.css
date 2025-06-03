@@ -169,7 +169,6 @@ header {
     font-weight: bold;
     color: #313131;
     font-size: 100px;
-    margin-bottom: 100px;
 }
 
 .sec1Wrapper {
@@ -197,12 +196,13 @@ header {
         font-size: 80px;
     }
     .sec1 {
-        height: 1000px;
+        height: 500px;
     }
     .dearGuests  {
-        font-size: 60px;
+        font-size: 30px;
+        margin-bottom: 50px;
     }
     .sec1Wrapper > span {
-        font-size: 40px;
+        font-size: 20px;
     }
 }
